@@ -20,6 +20,8 @@ def machine():
 
     return new_message.capitalize()
 
+
+user = input("Enter Your Name")
 print(machine())
 
 
